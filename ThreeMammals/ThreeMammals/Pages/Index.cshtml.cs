@@ -11,7 +11,7 @@ namespace ThreeMammals.Pages
     {
         public IActionResult OnGet()
         {
-            return RedirectToPage("/Ocelot");
+            return RedirectToPage("/ocelot");
         }
     }
 }
