@@ -6,6 +6,11 @@
  * Made By MaterializeCSS.com
  */
 
+.ocelot-logo {
+    max-height: 21%;
+    max-width: 21%;
+}
+
 nav ul a,
 nav .brand-logo {
     color: #444;
@@ -23,7 +28,6 @@ p {
     min-height: 380px;
     line-height: 0;
     height: auto;
-    color: rgba(255,255,255,.9);
 }
 
     .parallax-container .section {
