@@ -2,7 +2,7 @@
 
 namespace ThreeMammals.Pages
 {
-    public class OcelotModel : PageModel
+    public class ocelotModel : PageModel
     {
         public void OnGet()
         {
